@@ -1,0 +1,2 @@
+# SMART-HAND-GESTURE-CONTROLLED-ROBOT-USING-AI-AND-ESP32-FOR-NEXT---GEN-HUMAN-ROBOT-INTERACTION-
+Problem Statement:  Comventional robot control systems, which primarily rely on physical input devices such as Joysticks, remote modules, and wired controllers, face significant Limitatiom in modern applications. These traditional methods, while functional in controlled settings, are often unintuitive, particularly for non-technical users .
