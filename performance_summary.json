@@ -1,0 +1,11 @@
+{
+  "Overall System Accuracy": "90.7%",
+  "Average Response Time": "24.9ms",
+  "Average FPS": "28.2 FPS",
+  "System Reliability": "98.5%",
+  "Power Consumption": "2.3W (ESP32 + Motors)",
+  "Operating Range": "5-10 meters",
+  "Gesture Set Size": "6 distinct gestures",
+  "False Positive Rate": "2.1%",
+  "False Negative Rate": "1.8%"
+}
